@@ -1,0 +1,45 @@
+14:45:31	MoveCommonAssemblyInfoToRoot: Moving CommonAssemblyInfo.cs from C:\Work\Sarabi\Sarabi\SolutionItemsContainer\CommonAssemblyInfo.cs to root at C:\Work\Sarabi\Sarabi\CommonAssemblyInfo.cs
+14:45:31	MoveSolutionItemsToLib: Moving solution items from C:\Work\Sarabi\Sarabi\SolutionItemsContainer\Solution Items to lib at C:\Work\Sarabi\Sarabi\lib
+14:45:32	MoveSolutionItemsToToolsLib: Moving tools solution items from C:\Work\Sarabi\Sarabi\ToolsSolutionItemsContainer\Solution Items to tools lib at C:\Work\Sarabi\Sarabi\tools\lib
+14:45:34	MoveProjectTo: Removing Sarabi.Core from solution
+14:45:35	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on C:\Work\Sarabi\Sarabi\Sarabi.Core\Sarabi.Core.csproj
+14:45:35	MoveProjectTo: Moving Sarabi.Core from C:\Work\Sarabi\Sarabi\Sarabi.Core to target location at C:\Work\Sarabi\Sarabi\app\Sarabi.Core
+14:45:35	MoveProjectTo: Adding Sarabi.Core to solution
+14:45:36	CaptureProjectGuidOf: Does C:\Work\Sarabi\Sarabi\app\Sarabi.Core\Sarabi.Core.csproj exist? True
+14:45:36	CaptureProjectGuidOf: About to open C:\Work\Sarabi\Sarabi\app\Sarabi.Core\Sarabi.Core.csproj
+14:45:36	CaptureProjectGuidOf: Captured the GUID {86EB5F45-FAE9-45C9-8E5D-23A071AEF122} for Sarabi.Core
+14:45:37	MoveProjectTo: Removing Sarabi.ApplicationServices from solution
+14:45:38	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on C:\Work\Sarabi\Sarabi\Sarabi.ApplicationServices\Sarabi.ApplicationServices.csproj
+14:45:38	MoveProjectTo: Moving Sarabi.ApplicationServices from C:\Work\Sarabi\Sarabi\Sarabi.ApplicationServices to target location at C:\Work\Sarabi\Sarabi\app\Sarabi.ApplicationServices
+14:45:38	MoveProjectTo: Adding Sarabi.ApplicationServices to solution
+14:45:38	CaptureProjectGuidOf: Does C:\Work\Sarabi\Sarabi\app\Sarabi.ApplicationServices\Sarabi.ApplicationServices.csproj exist? True
+14:45:38	CaptureProjectGuidOf: About to open C:\Work\Sarabi\Sarabi\app\Sarabi.ApplicationServices\Sarabi.ApplicationServices.csproj
+14:45:38	CaptureProjectGuidOf: Captured the GUID {6AD2B31B-ECDE-4F2C-9B87-08296E7424BA} for Sarabi.ApplicationServices
+14:45:40	MoveProjectTo: Removing Sarabi.Data from solution
+14:45:41	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on C:\Work\Sarabi\Sarabi\Sarabi.Data\Sarabi.Data.csproj
+14:45:41	MoveProjectTo: Moving Sarabi.Data from C:\Work\Sarabi\Sarabi\Sarabi.Data to target location at C:\Work\Sarabi\Sarabi\app\Sarabi.Data
+14:45:41	MoveProjectTo: Adding Sarabi.Data to solution
+14:45:42	CaptureProjectGuidOf: Does C:\Work\Sarabi\Sarabi\app\Sarabi.Data\Sarabi.Data.csproj exist? True
+14:45:42	CaptureProjectGuidOf: About to open C:\Work\Sarabi\Sarabi\app\Sarabi.Data\Sarabi.Data.csproj
+14:45:42	CaptureProjectGuidOf: Captured the GUID {D38F5C86-38B0-4774-88C5-623806010A99} for Sarabi.Data
+14:45:44	MoveProjectTo: Removing Sarabi.Web.Controllers from solution
+14:45:45	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on C:\Work\Sarabi\Sarabi\Sarabi.Web.Controllers\Sarabi.Web.Controllers.csproj
+14:45:45	MoveProjectTo: Moving Sarabi.Web.Controllers from C:\Work\Sarabi\Sarabi\Sarabi.Web.Controllers to target location at C:\Work\Sarabi\Sarabi\app\Sarabi.Web.Controllers
+14:45:45	MoveProjectTo: Adding Sarabi.Web.Controllers to solution
+14:45:46	CaptureProjectGuidOf: Does C:\Work\Sarabi\Sarabi\app\Sarabi.Web.Controllers\Sarabi.Web.Controllers.csproj exist? True
+14:45:46	CaptureProjectGuidOf: About to open C:\Work\Sarabi\Sarabi\app\Sarabi.Web.Controllers\Sarabi.Web.Controllers.csproj
+14:45:46	CaptureProjectGuidOf: Captured the GUID {CB6DFE34-8EFA-4948-8ABB-0966C4547807} for Sarabi.Web.Controllers
+14:45:49	MoveProjectTo: Removing Sarabi.Tests from solution
+14:45:50	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on C:\Work\Sarabi\Sarabi\Sarabi.Tests\Sarabi.Tests.csproj
+14:45:50	MoveProjectTo: Moving Sarabi.Tests from C:\Work\Sarabi\Sarabi\Sarabi.Tests to target location at C:\Work\Sarabi\Sarabi\tests\Sarabi.Tests
+14:45:50	MoveProjectTo: Adding Sarabi.Tests to solution
+14:45:56	MoveProjectTo: Removing Sarabi.Web from solution
+14:45:58	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on C:\Work\Sarabi\Sarabi\Sarabi.Web\Sarabi.Web.csproj
+14:45:58	MoveProjectTo: Moving Sarabi.Web from C:\Work\Sarabi\Sarabi\Sarabi.Web to target location at C:\Work\Sarabi\Sarabi\app\Sarabi.Web
+14:45:58	MoveProjectTo: Adding Sarabi.Web to solution
+14:46:00	MoveProjectTo: Removing CrudScaffolding from solution
+14:46:01	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on C:\Work\Sarabi\Sarabi\CrudScaffolding\CrudScaffolding.csproj
+14:46:01	MoveProjectTo: Moving CrudScaffolding from C:\Work\Sarabi\Sarabi\CrudScaffolding to target location at C:\Work\Sarabi\Sarabi\tools\CrudScaffolding
+14:46:01	MoveProjectTo: Adding CrudScaffolding to solution folder C:\Work\Sarabi\Sarabi\tools\CrudScaffolding
+14:46:01	ExcludeProjectFromBuildProcess: Setting build to false for project Sarabi\tools\CrudScaffolding\CrudScaffolding.csproj within the Debug configuration
+14:46:01	ExcludeProjectFromBuildProcess: Setting build to false for project Sarabi\tools\CrudScaffolding\CrudScaffolding.csproj within the Release configuration

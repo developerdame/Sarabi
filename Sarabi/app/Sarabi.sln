@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sarabi.ApplicationServices", "Sarabi.ApplicationServices\Sarabi.ApplicationServices.csproj", "{6AD2B31B-ECDE-4F2C-9B87-08296E7424BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sarabi.Core", "Sarabi.Core\Sarabi.Core.csproj", "{86EB5F45-FAE9-45C9-8E5D-23A071AEF122}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sarabi.Data", "Sarabi.Data\Sarabi.Data.csproj", "{D38F5C86-38B0-4774-88C5-623806010A99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sarabi.Web", "Sarabi.Web\Sarabi.Web.csproj", "{99AC166C-6A05-40E6-842C-0B668FA2D86B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sarabi.Web.Controllers", "Sarabi.Web.Controllers\Sarabi.Web.Controllers.csproj", "{CB6DFE34-8EFA-4948-8ABB-0966C4547807}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sarabi.Behaviour", "..\tests\Sarabi.Behaviour\Sarabi.Behaviour.csproj", "{7D88A7AC-6228-4DA8-987D-E017B8906BD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AD2B31B-ECDE-4F2C-9B87-08296E7424BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD2B31B-ECDE-4F2C-9B87-08296E7424BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD2B31B-ECDE-4F2C-9B87-08296E7424BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD2B31B-ECDE-4F2C-9B87-08296E7424BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86EB5F45-FAE9-45C9-8E5D-23A071AEF122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86EB5F45-FAE9-45C9-8E5D-23A071AEF122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86EB5F45-FAE9-45C9-8E5D-23A071AEF122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86EB5F45-FAE9-45C9-8E5D-23A071AEF122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D38F5C86-38B0-4774-88C5-623806010A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D38F5C86-38B0-4774-88C5-623806010A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D38F5C86-38B0-4774-88C5-623806010A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D38F5C86-38B0-4774-88C5-623806010A99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99AC166C-6A05-40E6-842C-0B668FA2D86B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99AC166C-6A05-40E6-842C-0B668FA2D86B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99AC166C-6A05-40E6-842C-0B668FA2D86B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99AC166C-6A05-40E6-842C-0B668FA2D86B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB6DFE34-8EFA-4948-8ABB-0966C4547807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB6DFE34-8EFA-4948-8ABB-0966C4547807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB6DFE34-8EFA-4948-8ABB-0966C4547807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB6DFE34-8EFA-4948-8ABB-0966C4547807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D88A7AC-6228-4DA8-987D-E017B8906BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D88A7AC-6228-4DA8-987D-E017B8906BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D88A7AC-6228-4DA8-987D-E017B8906BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D88A7AC-6228-4DA8-987D-E017B8906BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

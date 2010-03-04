@@ -9,6 +9,7 @@ namespace Sarabi.Core
         public virtual double Rank { get; set; }
         public virtual string PictureUrl { get; set; }
         public virtual string WikipediaUrl { get; set; }
+		public virtual string Type { get; set; }
         public virtual List<Occupation> Occupations { get; set; }
         public virtual List<Sighting> Sightings { get; set; }
     }

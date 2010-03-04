@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>9.0.30729</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{6AD2B31B-ECDE-4F2C-9B87-08296E7424BA}</ProjectGuid>
+    <ProjectGuid>{7D88A7AC-6228-4DA8-987D-E017B8906BD0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Sarabi.ApplicationServices</RootNamespace>
-    <AssemblyName>Sarabi.ApplicationServices</AssemblyName>
+    <RootNamespace>Sarabi.Behaviour</RootNamespace>
+    <AssemblyName>Sarabi.Behaviour</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -31,13 +31,17 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="HtmlAgilityPack, Version=1.3.9.1, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a, processorArchitecture=MSIL">
+    <Reference Include="Machine.Specifications, Version=0.3.0.0, Culture=neutral, PublicKeyToken=5c474de7a495cff1, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\lib\HtmlAgilityPack.dll</HintPath>
+      <HintPath>..\..\lib\Machine.Specifications.dll</HintPath>
     </Reference>
-    <Reference Include="ScottWater.Boss, Version=0.9.0.0, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Moq, Version=4.0.812.4, Culture=neutral, PublicKeyToken=69f491c39445e920, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\lib\ScottWater.Boss.dll</HintPath>
+      <HintPath>..\..\lib\Moq.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework, Version=2.5.2.9222, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\tools\lib\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="SharpArch.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b5f559ae0ac4e006, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -57,30 +61,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\CommonAssemblyInfo.cs">
-      <Link>Properties\CommonAssemblyInfo.cs</Link>
-    </Compile>
-    <Compile Include="CelebFinder.cs" />
-    <Compile Include="CelebFinderContext.cs" />
-    <Compile Include="Contributors\DbFinder.cs" />
-    <Compile Include="Contributors\DbpediaParser.cs" />
-    <Compile Include="Contributors\ICelebFinderContributor.cs" />
-    <Compile Include="Contributors\InvalidCelebrityException.cs" />
-    <Compile Include="Contributors\WikipediaPageFinder.cs" />
+    <Compile Include="ApplicationServices\CelebFinder\Contributors\DbpediaParserTests.cs" />
+    <Compile Include="ApplicationServices\CelebFinder\Contributors\WikipediaPageFinderTests.cs" />
+    <Compile Include="when_the_celebrity_is_in_the_database.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Sarabi.Core\Sarabi.Core.csproj">
+    <ProjectReference Include="..\..\app\Sarabi.ApplicationServices\Sarabi.ApplicationServices.csproj">
+      <Project>{6AD2B31B-ECDE-4F2C-9B87-08296E7424BA}</Project>
+      <Name>Sarabi.ApplicationServices</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\app\Sarabi.Core\Sarabi.Core.csproj">
       <Project>{86EB5F45-FAE9-45C9-8E5D-23A071AEF122}</Project>
       <Name>Sarabi.Core</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Sarabi.Data\Sarabi.Data.csproj">
+    <ProjectReference Include="..\..\app\Sarabi.Data\Sarabi.Data.csproj">
       <Project>{D38F5C86-38B0-4774-88C5-623806010A99}</Project>
       <Name>Sarabi.Data</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

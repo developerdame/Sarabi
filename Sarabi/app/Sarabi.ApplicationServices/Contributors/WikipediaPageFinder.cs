@@ -10,11 +10,11 @@ namespace Sarabi.ApplicationServices.Contributors
         {
             const string appId = "AnAkWUfV34G9T5uEFFZ6ffBa6wWhoaFdyVFGOWnBVA9L4zW4OsR1aSJVPm8pCDZQEk5774aOmuTz5V53owQ-";
 
-            var query = string.Format("{0} site:http://www.wikipedia.org", context.Name);
+            var query = string.Format("{0} site:http://en.wikipedia.org", context.Name);
             var result = new WebSearch(appId).Query(query).Get();
 
             if(result.Count > 1)
-                throw new Exception("Dunno which result to choose, there are " + result.TotalHits);
+                throw new Exception("Dunno which result to choose, there are " + result.Count);
 
             if(result.Count == 0)
                 throw new Exception("Could not find anyone with that name");

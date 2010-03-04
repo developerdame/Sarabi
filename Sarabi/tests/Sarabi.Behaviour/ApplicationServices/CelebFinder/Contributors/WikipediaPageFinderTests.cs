@@ -58,7 +58,7 @@ namespace Sarabi.Behaviour.ApplicationServices.CelebFinder.Contributors
                                      }
                                  };
 
-        private It should_throw_to_many_results_exception = () => exceptionThrown.Message.ShouldEqual("Dunno which result to choose, there are");
+        private It should_throw_to_many_results_exception = () => exceptionThrown.Message.ShouldEqual("Dunno which result to choose, there are 20");
         
     }
 }

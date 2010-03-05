@@ -43,7 +43,7 @@ namespace Sarabi.Behaviour.ApplicationServices.CelebFinder.Contributors
    
     public class When_more_than_one_celebrity_name : WikipediaPageFinderContext
     {
-        private static Exception exceptionThrown;
+        private static MultipleCelebritiesException exceptionThrown;
 
         private Because of = () =>
                                  {
@@ -52,13 +52,16 @@ namespace Sarabi.Behaviour.ApplicationServices.CelebFinder.Contributors
                                      {
                                          Execute();
                                      }
-                                     catch(Exception exception)
+                                     catch(MultipleCelebritiesException exception)
                                      {
                                          exceptionThrown = exception;
+                                         
                                      }
                                  };
 
-        private It should_throw_to_many_results_exception = () => exceptionThrown.Message.ShouldEqual("Dunno which result to choose, there are 20");
+        private It should_throw_too_many_results_exception = () => exceptionThrown.Message.ShouldEqual("Dunno which result to choose, there are 20");
+
+        private It should_return_a_list_of_urls = () => exceptionThrown.CelebrityUrls.Count.ShouldEqual(20);
         
     }
 }

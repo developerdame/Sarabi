@@ -14,7 +14,10 @@ namespace Sarabi.ApplicationServices.Contributors
             var result = new WebSearch(appId).Query(query).Get();
 
             if(result.Count > 1)
-                throw new Exception("Dunno which result to choose, there are " + result.Count);
+            {
+                var searchResultItems = result.Select(r => r.Url).ToList();
+                throw new MultipleCelebritiesException(searchResultItems,"Dunno which result to choose, there are " + result.Count);
+            }
 
             if(result.Count == 0)
                 throw new Exception("Could not find anyone with that name");

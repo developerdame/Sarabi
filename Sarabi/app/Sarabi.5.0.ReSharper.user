@@ -1,0 +1,42 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:WikipediaPageFinderTests.cs" caret="2188" fromTop="21" />
+      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:DbpediaParserTests.cs" caret="981" fromTop="16" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:WikipediaPageFinderTests.cs" caret="2188" fromTop="14" />
+      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:WikipediaPageFinderTests.cs" caret="2188" fromTop="15" />
+      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:DbpediaParserTests.cs" caret="1588" fromTop="12" />
+      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:DbpediaParserTests.cs" caret="1186" fromTop="2" />
+      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:DbpediaParserTests.cs" caret="981" fromTop="16" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:ScottWater.Boss.WebSearch">
+      <Item value="Take`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="static" priority="0" />
+      <Item value="DbpediaParser`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

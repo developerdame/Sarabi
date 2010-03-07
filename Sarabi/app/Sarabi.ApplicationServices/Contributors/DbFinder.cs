@@ -4,11 +4,16 @@ namespace Sarabi.ApplicationServices.Contributors
 {
     public class DbFinder : ICelebFinderContributor
     {
+        private readonly ICelebrityRepository _celebrityRepository;
+
+        public DbFinder(ICelebrityRepository celebrityRepository)
+        {
+            _celebrityRepository = celebrityRepository;
+        }
+
         public void Execute(CelebFinderContext context)
         {
-            var celebrityRepository = new CelebrityRepository();
-
-            var celebrity = celebrityRepository.GetCelebrityByName(context.Name);
+            context.Celebrity = _celebrityRepository.GetCelebrityByName(context.Name);
         }
     }
 }

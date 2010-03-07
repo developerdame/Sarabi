@@ -71,6 +71,7 @@
     <Compile Include="Contributors\ICelebFinderContributor.cs" />
     <Compile Include="Contributors\InvalidCelebrityException.cs" />
     <Compile Include="Contributors\MultipleCelebritiesException.cs" />
+    <Compile Include="Contributors\MultipleCelebrityException.cs" />
     <Compile Include="Contributors\WikipediaPageFinder.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

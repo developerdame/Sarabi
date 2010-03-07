@@ -63,9 +63,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ApplicationServices\CelebFinder\Contributors\DbFinderTests.cs" />
     <Compile Include="ApplicationServices\CelebFinder\Contributors\DbpediaParserTests.cs" />
     <Compile Include="ApplicationServices\CelebFinder\Contributors\WikipediaPageFinderTests.cs" />
-    <Compile Include="when_the_celebrity_is_in_the_database.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

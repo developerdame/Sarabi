@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="6AD2B31B-ECDE-4F2C-9B87-08296E7424BA" ModuleId="Sarabi.ApplicationServices" />
+  <Module PersistentId="86EB5F45-FAE9-45C9-8E5D-23A071AEF122" ModuleId="Sarabi.Core" />
+  <Module PersistentId="7D88A7AC-6228-4DA8-987D-E017B8906BD0" ModuleId="Sarabi.Behaviour" />
+  <Module PersistentId="D38F5C86-38B0-4774-88C5-623806010A99" ModuleId="Sarabi.Data" />
+</Modules>

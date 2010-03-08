@@ -96,7 +96,6 @@ C:\Dev\Sarabi\Sarabi\app\Sarabi.Web\bin\Castle.DynamicProxy2.dll
 C:\Dev\Sarabi\Sarabi\app\Sarabi.Web\bin\Inflector.Net.dll
 C:\Dev\Sarabi\Sarabi\app\Sarabi.Web\bin\Newtonsoft.Json.dll
 C:\Dev\Sarabi\Sarabi\app\Sarabi.Web\bin\ScottWater.Boss.dll
-C:\Dev\Sarabi\Sarabi\app\Sarabi.Web\bin\HtmlAgilityPack.dll
 C:\Dev\Sarabi\Sarabi\app\Sarabi.Web\bin\log4net.xml
 C:\Dev\Sarabi\Sarabi\app\Sarabi.Web\bin\NHibernate.xml
 C:\Dev\Sarabi\Sarabi\app\Sarabi.Web\bin\Sarabi.ApplicationServices.pdb

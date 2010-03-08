@@ -21,7 +21,12 @@ namespace Sarabi.ApplicationServices
         public Celebrity Find(string name)
         {
             var context = new CelebFinderContext {Name = name};
-            var workers = new ICelebFinderContributor[] {new DbFinder(_celebrityRepository), new WikipediaPageFinder(), new DbpediaParser() };
+            var workers = new ICelebFinderContributor[]
+            {
+                new DbFinder(_celebrityRepository), 
+                new WikipediaPageFinder(), 
+                new ResourceTypeValidator(new DbpediaTypesRepository())
+            };
 
             foreach (var worker in workers)
             {

@@ -64,7 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ApplicationServices\CelebFinder\Contributors\DbFinderTests.cs" />
-    <Compile Include="ApplicationServices\CelebFinder\Contributors\DbpediaParserTests.cs" />
+    <Compile Include="ApplicationServices\CelebFinder\Contributors\ResourceValidatorTests.cs" />
     <Compile Include="ApplicationServices\CelebFinder\Contributors\WikipediaPageFinderTests.cs" />
     <Compile Include="Data\DbpediaTypesRepositoryTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

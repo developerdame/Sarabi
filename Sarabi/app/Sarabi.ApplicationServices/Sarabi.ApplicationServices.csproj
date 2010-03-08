@@ -67,7 +67,7 @@
     <Compile Include="CelebrityFinder.cs" />
     <Compile Include="CelebFinderContext.cs" />
     <Compile Include="Contributors\DbFinder.cs" />
-    <Compile Include="Contributors\DbpediaParser.cs" />
+    <Compile Include="Contributors\ResourceTypeValidator.cs" />
     <Compile Include="Contributors\ICelebFinderContributor.cs" />
     <Compile Include="Contributors\InvalidCelebrityException.cs" />
     <Compile Include="Contributors\MultipleCelebritiesException.cs" />

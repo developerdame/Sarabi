@@ -5,7 +5,12 @@ using log4net;
 
 namespace Sarabi.Data
 {
-    public class DbpediaTypesRepository
+    public interface IDbpediaTypesRepository
+    {
+        string GetResourceType(string resource);
+    }
+
+    public class DbpediaTypesRepository : IDbpediaTypesRepository
     {
         private ILog _log = LogManager.GetLogger(typeof (DbpediaTypesRepository));
 

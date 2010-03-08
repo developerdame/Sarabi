@@ -3,4 +3,6 @@
   <Module PersistentId="86EB5F45-FAE9-45C9-8E5D-23A071AEF122" ModuleId="Sarabi.Core" />
   <Module PersistentId="7D88A7AC-6228-4DA8-987D-E017B8906BD0" ModuleId="Sarabi.Behaviour" />
   <Module PersistentId="D38F5C86-38B0-4774-88C5-623806010A99" ModuleId="Sarabi.Data" />
+  <Module PersistentId="CB6DFE34-8EFA-4948-8ABB-0966C4547807" ModuleId="Sarabi.Web.Controllers" />
+  <Module PersistentId="99AC166C-6A05-40E6-842C-0B668FA2D86B" ModuleId="Sarabi.Web" />
 </Modules>

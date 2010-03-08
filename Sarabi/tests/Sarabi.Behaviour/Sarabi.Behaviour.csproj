@@ -66,6 +66,7 @@
     <Compile Include="ApplicationServices\CelebFinder\Contributors\DbFinderTests.cs" />
     <Compile Include="ApplicationServices\CelebFinder\Contributors\DbpediaParserTests.cs" />
     <Compile Include="ApplicationServices\CelebFinder\Contributors\WikipediaPageFinderTests.cs" />
+    <Compile Include="Data\DbpediaTypesRepositoryTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -81,6 +82,11 @@
       <Project>{D38F5C86-38B0-4774-88C5-623806010A99}</Project>
       <Name>Sarabi.Data</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Types.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

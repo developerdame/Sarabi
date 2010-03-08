@@ -64,7 +64,7 @@
     <Compile Include="..\..\CommonAssemblyInfo.cs">
       <Link>Properties\CommonAssemblyInfo.cs</Link>
     </Compile>
-    <Compile Include="CelebFinder.cs" />
+    <Compile Include="CelebrityFinder.cs" />
     <Compile Include="CelebFinderContext.cs" />
     <Compile Include="Contributors\DbFinder.cs" />
     <Compile Include="Contributors\DbpediaParser.cs" />
@@ -84,9 +84,6 @@
       <Project>{D38F5C86-38B0-4774-88C5-623806010A99}</Project>
       <Name>Sarabi.Data</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

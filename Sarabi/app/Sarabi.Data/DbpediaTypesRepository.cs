@@ -1,15 +1,10 @@
-using System;
 using System.Collections.Generic;
 using System.IO;
 using log4net;
+using Sarabi.Core.DataInterfaces;
 
 namespace Sarabi.Data
 {
-    public interface IDbpediaTypesRepository
-    {
-        string GetResourceType(string resource);
-    }
-
     public class DbpediaTypesRepository : IDbpediaTypesRepository
     {
         private ILog _log = LogManager.GetLogger(typeof (DbpediaTypesRepository));
@@ -19,7 +14,7 @@ namespace Sarabi.Data
         private const int Resource = 0, Type = 2;
 
         public DbpediaTypesRepository()
-            :this(new FileStream("Types.csv", FileMode.Open))
+            //:this(new FileStream("Types.csv", FileMode.Open))
         {
         }
 

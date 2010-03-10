@@ -3,6 +3,7 @@ using Moq;
 using Sarabi.ApplicationServices;
 using Sarabi.ApplicationServices.Contributors;
 using Sarabi.Core;
+using Sarabi.Core.DataInterfaces;
 using Sarabi.Data;
 using It = Machine.Specifications.It;
 

@@ -1,4 +1,5 @@
-﻿using Sarabi.Data;
+﻿using Sarabi.Core.DataInterfaces;
+using Sarabi.Data;
 
 namespace Sarabi.ApplicationServices.Contributors
 {

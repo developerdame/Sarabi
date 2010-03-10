@@ -168,6 +168,7 @@
     <Content Include="NHibernate.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Views\Celebrity\Seen.aspx" />
     <Content Include="Views\Home\Index.aspx" />
     <Content Include="Views\Shared\Error.aspx" />
     <Content Include="Views\Shared\DebugFormSubmission.ascx" />
@@ -183,6 +184,10 @@
     <Content Include="Views\Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Sarabi.ApplicationServices\Sarabi.ApplicationServices.csproj">
+      <Project>{6AD2B31B-ECDE-4F2C-9B87-08296E7424BA}</Project>
+      <Name>Sarabi.ApplicationServices</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Sarabi.Web.Controllers\Sarabi.Web.Controllers.csproj">
       <Project>{CB6DFE34-8EFA-4948-8ABB-0966C4547807}</Project>
       <Name>Sarabi.Web.Controllers</Name>
@@ -214,9 +219,6 @@
           <IISUrl>
           </IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
-          <UseCustomServer>False</UseCustomServer>
-          <CustomServerUrl>
-          </CustomServerUrl>
           <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
         </WebProjectProperties>
       </FlavorProperties>

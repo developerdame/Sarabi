@@ -1,9 +1,5 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using HtmlAgilityPack;
 using Sarabi.Core;
-using Sarabi.Data;
+using Sarabi.Core.DataInterfaces;
 
 namespace Sarabi.ApplicationServices.Contributors
 {

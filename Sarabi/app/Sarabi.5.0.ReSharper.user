@@ -10,35 +10,56 @@
     <RecentFiles>
       <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:WikipediaPageFinderTests.cs" caret="2188" fromTop="21" />
       <File id="6AD2B31B-ECDE-4F2C-9B87-08296E7424BA/d:Contributors/f:ICelebFinderContributor.cs" caret="0" fromTop="0" />
-      <File id="6AD2B31B-ECDE-4F2C-9B87-08296E7424BA/d:Contributors/f:DbpediaParser.cs" caret="818" fromTop="21" />
-      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:DbpediaParserTests.cs" caret="210" fromTop="0" />
       <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:DbFinderTests.cs" caret="1030" fromTop="25" />
-      <File id="6AD2B31B-ECDE-4F2C-9B87-08296E7424BA/f:CelebrityFinder.cs" caret="720" fromTop="22" />
-      <File id="6AD2B31B-ECDE-4F2C-9B87-08296E7424BA/d:Contributors/f:DbFinder.cs" caret="222" fromTop="7" />
-      <File id="99AC166C-6A05-40E6-842C-0B668FA2D86B/d:CastleWindsor/f:ComponentRegistrar.cs" caret="0" fromTop="0" />
       <File id="CB6DFE34-8EFA-4948-8ABB-0966C4547807/f:HomeController.cs" caret="458" fromTop="16" />
+      <File id="D38F5C86-38B0-4774-88C5-623806010A99/f:DbpediaTypesRepository.cs" caret="156" fromTop="6" />
+      <File id="6AD2B31B-ECDE-4F2C-9B87-08296E7424BA/f:CelebrityFinder.cs" caret="825" fromTop="14" />
+      <File id="6AD2B31B-ECDE-4F2C-9B87-08296E7424BA/d:Contributors/f:ResourceTypeValidator.cs" caret="983" fromTop="19" />
+      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:Data/f:DbpediaTypesRepositoryTests.cs" caret="912" fromTop="17" />
+      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:ResourceValidatorTests.cs" caret="283" fromTop="3" />
+      <File id="6AD2B31B-ECDE-4F2C-9B87-08296E7424BA/d:Contributors/f:DbFinder.cs" caret="530" fromTop="17" />
+      <File id="99AC166C-6A05-40E6-842C-0B668FA2D86B/d:Views/d:Home/f:Index.aspx" caret="90" fromTop="0" />
+      <File id="99AC166C-6A05-40E6-842C-0B668FA2D86B/d:Views/d:Celebrity/f:Index.aspx" caret="289" fromTop="4" />
+      <File id="CB6DFE34-8EFA-4948-8ABB-0966C4547807/d:ViewModels/d:Celebrity/f:SeenCelebrityViewModel.cs" caret="154" fromTop="3" />
+      <File id="CB6DFE34-8EFA-4948-8ABB-0966C4547807/f:CelebrityController.cs" caret="304" fromTop="8" />
+      <File id="99AC166C-6A05-40E6-842C-0B668FA2D86B/f:Global.asax.cs" caret="3595" fromTop="29" />
+      <File id="99AC166C-6A05-40E6-842C-0B668FA2D86B/f:Web.config" caret="6228" fromTop="26" />
+      <File id="99AC166C-6A05-40E6-842C-0B668FA2D86B/f:NHibernate.config" caret="194" fromTop="2" />
+      <File id="99AC166C-6A05-40E6-842C-0B668FA2D86B/f:Default.aspx.cs" caret="369" fromTop="11" />
+      <File id="99AC166C-6A05-40E6-842C-0B668FA2D86B/d:CastleWindsor/f:ComponentRegistrar.cs" caret="1337" fromTop="16" />
+      <File id="D38F5C86-38B0-4774-88C5-623806010A99/f:CelebrityRepository.cs" caret="160" fromTop="6" />
     </RecentFiles>
     <RecentEdits>
-      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:WikipediaPageFinderTests.cs" caret="2188" fromTop="14" />
-      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:WikipediaPageFinderTests.cs" caret="2188" fromTop="15" />
-      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:DbpediaParserTests.cs" caret="1588" fromTop="12" />
-      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:DbpediaParserTests.cs" caret="1186" fromTop="2" />
-      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:DbpediaParserTests.cs" caret="981" fromTop="16" />
-      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:DbpediaParserTests.cs" caret="358" fromTop="10" />
-      <File id="6AD2B31B-ECDE-4F2C-9B87-08296E7424BA/f:CelebrityFinder.cs" caret="848" fromTop="11" />
-      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:DbFinderTests.cs" caret="1000" fromTop="18" />
-      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:DbFinderTests.cs" caret="795" fromTop="16" />
-      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:DbFinderTests.cs" caret="649" fromTop="7" />
-      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:DbFinderTests.cs" caret="1423" fromTop="18" />
-      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:DbFinderTests.cs" caret="173" fromTop="2" />
-      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:DbFinderTests.cs" caret="1116" fromTop="11" />
-      <File id="6AD2B31B-ECDE-4F2C-9B87-08296E7424BA/d:Contributors/f:DbFinder.cs" caret="452" fromTop="14" />
-      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:DbFinderTests.cs" caret="1951" fromTop="17" />
-      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:DbFinderTests.cs" caret="2261" fromTop="22" />
-      <File id="6AD2B31B-ECDE-4F2C-9B87-08296E7424BA/f:CelebrityFinder.cs" caret="415" fromTop="14" />
-      <File id="6AD2B31B-ECDE-4F2C-9B87-08296E7424BA/f:CelebrityFinder.cs" caret="720" fromTop="22" />
-      <File id="CB6DFE34-8EFA-4948-8ABB-0966C4547807/f:HomeController.cs" caret="294" fromTop="9" />
-      <File id="CB6DFE34-8EFA-4948-8ABB-0966C4547807/f:HomeController.cs" caret="458" fromTop="16" />
+      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:Data/f:DbpediaTypesRepositoryTests.cs" caret="3101" fromTop="18" />
+      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:Data/f:DbpediaTypesRepositoryTests.cs" caret="3004" fromTop="18" />
+      <File id="D38F5C86-38B0-4774-88C5-623806010A99/f:DbpediaTypesRepository.cs" caret="440" fromTop="0" />
+      <File id="D38F5C86-38B0-4774-88C5-623806010A99/f:DbpediaTypesRepository.cs" caret="1084" fromTop="22" />
+      <File id="D38F5C86-38B0-4774-88C5-623806010A99/f:DbpediaTypesRepository.cs" caret="726" fromTop="10" />
+      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:Data/f:DbpediaTypesRepositoryTests.cs" caret="2802" fromTop="18" />
+      <File id="D38F5C86-38B0-4774-88C5-623806010A99/f:DbpediaTypesRepository.cs" caret="258" fromTop="6" />
+      <File id="6AD2B31B-ECDE-4F2C-9B87-08296E7424BA/d:Contributors/f:ResourceTypeValidator.cs" caret="409" fromTop="12" />
+      <File id="6AD2B31B-ECDE-4F2C-9B87-08296E7424BA/d:Contributors/f:ResourceTypeValidator.cs" caret="668" fromTop="16" />
+      <File id="6AD2B31B-ECDE-4F2C-9B87-08296E7424BA/d:Contributors/f:ResourceTypeValidator.cs" caret="228" fromTop="4" />
+      <File id="6AD2B31B-ECDE-4F2C-9B87-08296E7424BA/d:Contributors/f:ResourceTypeValidator.cs" caret="976" fromTop="10" />
+      <File id="6AD2B31B-ECDE-4F2C-9B87-08296E7424BA/d:Contributors/f:ResourceTypeValidator.cs" caret="722" fromTop="4" />
+      <File id="6AD2B31B-ECDE-4F2C-9B87-08296E7424BA/f:CelebrityFinder.cs" caret="699" fromTop="11" />
+      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:ResourceValidatorTests.cs" caret="391" fromTop="11" />
+      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:ResourceValidatorTests.cs" caret="378" fromTop="11" />
+      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:ResourceValidatorTests.cs" caret="1964" fromTop="22" />
+      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:ResourceValidatorTests.cs" caret="1126" fromTop="11" />
+      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:ResourceValidatorTests.cs" caret="1447" fromTop="10" />
+      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:ResourceValidatorTests.cs" caret="1610" fromTop="16" />
+      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:ResourceValidatorTests.cs" caret="1126" fromTop="5" />
+      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:ApplicationServices/d:CelebFinder/d:Contributors/f:ResourceValidatorTests.cs" caret="2241" fromTop="13" />
+      <File id="99AC166C-6A05-40E6-842C-0B668FA2D86B/d:Views/d:Home/f:Index.aspx" caret="517" fromTop="12" />
+      <File id="99AC166C-6A05-40E6-842C-0B668FA2D86B/d:Views/d:Home/f:Index.aspx" caret="90" fromTop="0" />
+      <File id="99AC166C-6A05-40E6-842C-0B668FA2D86B/d:Views/d:Celebrity/f:Index.aspx" caret="285" fromTop="7" />
+      <File id="99AC166C-6A05-40E6-842C-0B668FA2D86B/f:Web.config" caret="6293" fromTop="22" />
+      <File id="99AC166C-6A05-40E6-842C-0B668FA2D86B/f:Web.config" caret="6228" fromTop="20" />
+      <File id="CB6DFE34-8EFA-4948-8ABB-0966C4547807/d:ViewModels/d:Celebrity/f:SeenCelebrityViewModel.cs" caret="140" fromTop="3" />
+      <File id="99AC166C-6A05-40E6-842C-0B668FA2D86B/d:Views/d:Celebrity/f:Index.aspx" caret="289" fromTop="4" />
+      <File id="CB6DFE34-8EFA-4948-8ABB-0966C4547807/f:CelebrityController.cs" caret="304" fromTop="8" />
+      <File id="99AC166C-6A05-40E6-842C-0B668FA2D86B/f:NHibernate.config" caret="194" fromTop="2" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -57,18 +78,18 @@
       <Item value="Take`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Default">
-      <Item value="static" priority="3" />
+      <Item value="static" priority="8" />
       <Item value="DbpediaParser`0" priority="1" />
       <Item value="CelebFinderContext`0" priority="0" />
       <Item value="ICelebFinderContributor`0" priority="0" />
-      <Item value="new" priority="5" />
+      <Item value="new" priority="20" />
       <Item value="WikipediaPageFinder`0" priority="0" />
-      <Item value="name" priority="2" />
-      <Item value="public" priority="5" />
-      <Item value="class" priority="2" />
-      <Item value="string" priority="4" />
-      <Item value="private" priority="4" />
-      <Item value="void" priority="0" />
+      <Item value="name" priority="3" />
+      <Item value="public" priority="14" />
+      <Item value="class" priority="8" />
+      <Item value="string" priority="22" />
+      <Item value="private" priority="12" />
+      <Item value="void" priority="4" />
       <Item value="CelebrityRepository" priority="2" />
       <Item value="CelebFinderContext" priority="0" />
       <Item value="Name" priority="2" />
@@ -76,26 +97,91 @@
       <Item value="Mock&lt;ICelebrityRepository&gt;" priority="0" />
       <Item value="_celebrityRepository" priority="1" />
       <Item value="DbFinderContext`0" priority="1" />
-      <Item value="const" priority="2" />
+      <Item value="const" priority="5" />
       <Item value="m" priority="1" />
       <Item value="Celebrity`0" priority="0" />
-      <Item value="Celebrity" priority="3" />
+      <Item value="Celebrity" priority="5" />
       <Item value="readonly" priority="0" />
       <Item value="_celeb" priority="1" />
-      <Item value="protected" priority="0" />
+      <Item value="protected" priority="5" />
       <Item value="_name" priority="2" />
       <Item value="celebFinderContext" priority="0" />
       <Item value="context" priority="0" />
-      <Item value="Because`0" priority="0" />
+      <Item value="Because`0" priority="3" />
       <Item value="Tried_to_find_celebrity_in_the_db`0" priority="0" />
-      <Item value="It`0" priority="0" />
-      <Item value="var" priority="0" />
-      <Item value="ctor" priority="1" />
+      <Item value="It`0" priority="7" />
+      <Item value="var" priority="8" />
+      <Item value="ctor" priority="4" />
       <Item value="ICelebrityRepository`0" priority="0" />
       <Item value="celebrityRepository" priority="0" />
       <Item value="ICelebrityFinder`0" priority="0" />
       <Item value="celebrityFinder" priority="0" />
       <Item value="_celebrityFinder" priority="0" />
+      <Item value="prop" priority="1" />
+      <Item value="return" priority="8" />
+      <Item value="throw" priority="0" />
+      <Item value="NotImplementedException" priority="0" />
+      <Item value="StreamReader`0" priority="2" />
+      <Item value="FileStream`0" priority="1" />
+      <Item value="this" priority="0" />
+      <Item value="Open" priority="0" />
+      <Item value="MemoryStream`0" priority="0" />
+      <Item value="DbpediaTypesRepositoryTests`0" priority="0" />
+      <Item value="_typesCsv" priority="1" />
+      <Item value="Resource" priority="5" />
+      <Item value="DbpediaTypesRepositoryContext`0" priority="3" />
+      <Item value="Tried_to_get_the_dbpedia_type_for_the_resource`0" priority="0" />
+      <Item value="type" priority="10" />
+      <Item value="The_type`0" priority="0" />
+      <Item value="null" priority="3" />
+      <Item value="Dictionary" priority="0" />
+      <Item value="Dictionary&lt;string,string&gt;" priority="1" />
+      <Item value="if" priority="6" />
+      <Item value="_resources" priority="6" />
+      <Item value="StringReader`0" priority="0" />
+      <Item value="_csv" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="row" priority="2" />
+      <Item value="cols" priority="5" />
+      <Item value="int" priority="0" />
+      <Item value="LogManager`0" priority="0" />
+      <Item value="typeof" priority="0" />
+      <Item value="DbpediaTypesRepository`0" priority="1" />
+      <Item value="_log" priority="0" />
+      <Item value="continue" priority="1" />
+      <Item value="Type" priority="1" />
+      <Item value="GetResources`0" priority="1" />
+      <Item value="resources" priority="4" />
+      <Item value="resource" priority="4" />
+      <Item value="tried_to_get_the_type_for`0" priority="2" />
+      <Item value="the_type`0" priority="2" />
+      <Item value="false" priority="0" />
+      <Item value="stopwatch" priority="3" />
+      <Item value="_repository" priority="0" />
+      <Item value="Stream`0" priority="0" />
+      <Item value="csv" priority="0" />
+      <Item value="Debug`0" priority="0" />
+      <Item value="_elapsedTime" priority="0" />
+      <Item value="typesRepository" priority="0" />
+      <Item value="_typesRepository" priority="0" />
+      <Item value="DbpediaTypesRepository" priority="1" />
+      <Item value="WikipediaUrl" priority="1" />
+      <Item value="wikipediaUrl" priority="1" />
+      <Item value="Execute`0" priority="0" />
+      <Item value="wikipedia_url_is`0" priority="1" />
+      <Item value="_context" priority="1" />
+      <Item value="the_type_should_be`0" priority="0" />
+      <Item value="Html" priority="2" />
+      <Item value="HomeController`0" priority="0" />
+      <Item value="ActionResult`0" priority="0" />
+      <Item value="View`0" priority="0" />
+      <Item value="CelebrityController`0" priority="0" />
+      <Item value="FormMethod`0" priority="0" />
+      <Item value="Sarabi" priority="0" />
+      <Item value="Web" priority="0" />
+      <Item value="ViewModels" priority="0" />
+      <Item value="SearchedName" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Sarabi.ApplicationServices.Contributors.ICelebFinderContributor">
       <Item value="Execute`0" priority="0" />
@@ -116,13 +202,81 @@
     <ItemStatistics item="Qualified:Sarabi.Core.Celebrity">
       <Item value="ShouldEqual`1" priority="0" />
       <Item value="ShouldBeNull`0" priority="0" />
+      <Item value="Type" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Sarabi.ApplicationServices.CelebFinderContext">
       <Item value="GetHashCode`0" priority="0" />
-      <Item value="Celebrity" priority="1" />
+      <Item value="Celebrity" priority="2" />
+      <Item value="WikipediaUrl" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Sarabi.ApplicationServices.CelebFinder">
       <Item value="Find`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.Encoding">
+      <Item value="ASCII" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.Encoding">
+      <Item value="GetBytes`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Sarabi.Data.DbpediaTypesRepository">
+      <Item value="GetType`0" priority="0" />
+      <Item value="GetResourceType`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ShouldEqual`1" priority="1" />
+      <Item value="Split`0" priority="1" />
+      <Item value="LastIndexOf`0" priority="1" />
+      <Item value="ToLower`0" priority="6" />
+      <Item value="Substring`0" priority="0" />
+      <Item value="ShouldNotBeNull`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="ReadToEnd`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StringReader">
+      <Item value="ReadToEnd`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="ContainsKey`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@log4net.LogManager">
+      <Item value="GetLogger`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:log4net.ILog">
+      <Item value="Debug`0" priority="0" />
+      <Item value="Warn`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="2" />
+      <Item value="IsNullOrEmpty`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Diagnostics.Stopwatch">
+      <Item value="Start`0" priority="0" />
+      <Item value="Stop`0" priority="0" />
+      <Item value="ElapsedMilliseconds" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int64">
+      <Item value="ShouldBeLessThan`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Debug">
+      <Item value="WriteLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Sarabi.Data.IDbpediaTypesRepository">
+      <Item value="GetResourceType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper">
+      <Item value="BeginForm`0" priority="0" />
+      <Item value="TextBox`0" priority="0" />
+      <Item value="SubmitButton`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Sarabi.Web.Controllers.CelebrityController">
+      <Item value="Seen`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Mvc.FormMethod">
+      <Item value="Get" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Sarabi.Web.Controllers.ViewModels.Celebrity.SeenCelebrityViewModel">
+      <Item value="SearchedName" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>

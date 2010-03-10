@@ -19,35 +19,7 @@
 <body>
     <div class="page">
 
-        <div id="mainContent">
-
-            <div class="columnsContainer">
-
-                <div class="leftColumn">
-                    <p>
-                        <%= Html.Image("~/Content/Images/sharp_arch.jpg") %>
-                    </p>
-                    <h2>Sarabi Pages</h2>
-                    <ul>
-                        <!-- We cannot use Html.ActionLink within a master page to link to a controller while using areas -->
-                        <li><%= Html.ActionLinkForAreas<HomeController>(c => c.Index(), "Home") %></li>
-                    </ul>
-                </div>
-                <!--/leftColumn-->
-
-                <div class="rightColumn">
-                    <asp:ContentPlaceHolder ID="MainContentPlaceHolder" runat="server" />
-                </div><!--/rightColumn-->
-
-                <div class="clear">
-                </div>
-
-            </div><!--/columnsContainer-->
-
-            <div id="sharpArchLogo"><%= Html.Image("~/Content/Images/sharp_arch_small.gif")%></div>
-
-        </div><!--/mainContent-->
-
-    </div><!--/page-->
+                     <asp:ContentPlaceHolder ID="MainContentPlaceHolder" runat="server" />
+    </div>
 </body>
 </html>

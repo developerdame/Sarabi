@@ -58,23 +58,5 @@ namespace Sarabi.Behaviour.Data
             Because we = () => tried_to_get_the_type_for("john_pResCott");
             It should_return = () => the_type("Person");
         }
-
-        public class When_loading_actual_data_it_works_of
-        {
-            Because we = () =>
-            {
-                var stopwatch = new Stopwatch();
-                stopwatch.Start();
-                _repository = new DbpediaTypesRepository();
-                stopwatch.Stop();
-                _elapsedTime = stopwatch.ElapsedMilliseconds;
-            };
-
-            It took_a_resonable_amount_of_time = () => _elapsedTime.ShouldBeLessThan(3000);
-            It can_load_a_resource = () => _repository.GetResourceType("Bill_Gates").ShouldNotBeNull();
-
-            private static DbpediaTypesRepository _repository;
-            private static long _elapsedTime;
-        }
     }
 }

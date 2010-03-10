@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sarabi.Web.Controllers", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sarabi.Behaviour", "..\tests\Sarabi.Behaviour\Sarabi.Behaviour.csproj", "{7D88A7AC-6228-4DA8-987D-E017B8906BD0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sarabi.CommandTool", "Sarabi.CommandTool\Sarabi.CommandTool.csproj", "{A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{7D88A7AC-6228-4DA8-987D-E017B8906BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D88A7AC-6228-4DA8-987D-E017B8906BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D88A7AC-6228-4DA8-987D-E017B8906BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -10,6 +10,8 @@ namespace Sarabi.Core
         public virtual string PictureUrl { get; set; }
         public virtual string WikipediaUrl { get; set; }
 		public virtual string Type { get; set; }
+        public virtual string Abstract { get; set; }
+        public virtual string DbpediaResourceId { get; set; }
         public virtual List<Occupation> Occupations { get; set; }
         public virtual List<Sighting> Sightings { get; set; }
     }

@@ -1,9 +1,12 @@
 <Configuration>
   <SettingsComponent>
-    <string />
+    <string>
+      <setting name="TeamCity.Toolbar.Shown">+TeamCity;</setting>
+    </string>
     <integer />
     <boolean>
       <setting name="SolutionAnalysisEnabled">False</setting>
+      <setting name="TeamCity.ServerChangesView.Visible">False</setting>
     </boolean>
   </SettingsComponent>
   <RecentFiles>
@@ -69,8 +72,7 @@
     <Providers />
   </UnitTestRunner>
   <UnitTestRunnerNUnit>
-    <NUnitInstallDir IsNull="False">
-    </NUnitInstallDir>
+    <NUnitInstallDir IsNull="False" />
     <UseAddins>Never</UseAddins>
   </UnitTestRunnerNUnit>
   <CompletionStatisticsManager>

@@ -71,6 +71,7 @@
     <Compile Include="Coordinates.cs" />
     <Compile Include="DataInterfaces\ICelebrityRepository.cs" />
     <Compile Include="DataInterfaces\IDbpediaTypesRepository.cs" />
+    <Compile Include="Image.cs" />
     <Compile Include="Occupation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sighting.cs" />

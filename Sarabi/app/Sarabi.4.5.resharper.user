@@ -1,0 +1,260 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:@Neoworks.Utils.CommandLine.CommandLineParser2">
+      <Item value="Initialise" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="if" priority="6" />
+      <Item value="parser" priority="1" />
+      <Item value="var" priority="13" />
+      <Item value="commands" priority="1" />
+      <Item value="null" priority="2" />
+      <Item value="RunCommands" priority="0" />
+      <Item value="Console" priority="1" />
+      <Item value="private" priority="7" />
+      <Item value="static" priority="2" />
+      <Item value="LogManager" priority="2" />
+      <Item value="typeof" priority="2" />
+      <Item value="Program" priority="0" />
+      <Item value="_log" priority="1" />
+      <Item value="finally" priority="0" />
+      <Item value="protected" priority="0" />
+      <Item value="abstract" priority="1" />
+      <Item value="void" priority="3" />
+      <Item value="new" priority="12" />
+      <Item value="SimpleSessionStorage" priority="0" />
+      <Item value="simpleStorage" priority="0" />
+      <Item value="configuration" priority="0" />
+      <Item value="NHibernateSession" priority="0" />
+      <Item value="Execute" priority="0" />
+      <Item value="factory" priority="0" />
+      <Item value="using" priority="2" />
+      <Item value="session" priority="2" />
+      <Item value="transation" priority="0" />
+      <Item value="Command" priority="2" />
+      <Item value="Neoworks.Utils.CommandLine" priority="0" />
+      <Item value="Help" priority="0" />
+      <Item value="string" priority="8" />
+      <Item value="File" priority="0" />
+      <Item value="fileName" priority="2" />
+      <Item value="throw" priority="0" />
+      <Item value="FileNotFoundException" priority="0" />
+      <Item value="return" priority="0" />
+      <Item value="Stream" priority="1" />
+      <Item value="FileStream" priority="1" />
+      <Item value="FileMode" priority="1" />
+      <Item value="GetFile" priority="2" />
+      <Item value="readonly" priority="1" />
+      <Item value="ImportFromDbpedia" priority="0" />
+      <Item value="GetResources" priority="0" />
+      <Item value="types" priority="0" />
+      <Item value="prop" priority="3" />
+      <Item value="virtual" priority="4" />
+      <Item value="class" priority="0" />
+      <Item value="Celebrity" priority="1" />
+      <Item value="DbpediaResourceId" priority="0" />
+      <Item value="resource" priority="5" />
+      <Item value="Type" priority="1" />
+      <Item value="type" priority="2" />
+      <Item value="ctor" priority="2" />
+      <Item value="SortedDictionary" priority="0" />
+      <Item value="Dictionary" priority="0" />
+      <Item value="celebrities" priority="4" />
+      <Item value="Action" priority="1" />
+      <Item value="Importer" priority="0" />
+      <Item value="a" priority="3" />
+      <Item value="Import" priority="3" />
+      <Item value="while" priority="0" />
+      <Item value="line" priority="1" />
+      <Item value="file" priority="1" />
+      <Item value="StreamReader" priority="0" />
+      <Item value="reader" priority="0" />
+      <Item value="cols" priority="8" />
+      <Item value="Resource" priority="2" />
+      <Item value="continue" priority="0" />
+      <Item value="Log" priority="4" />
+      <Item value="int" priority="1" />
+      <Item value="_celebrities" priority="1" />
+      <Item value="set" priority="0" />
+      <Item value="contentType" priority="2" />
+      <Item value="celeb" priority="0" />
+      <Item value="public" priority="1" />
+      <Item value="List" priority="0" />
+      <Item value="Image" priority="1" />
+      <Item value="Occupations" priority="0" />
+      <Item value="List&lt;Occupation&gt;" priority="0" />
+      <Item value="Sightings" priority="0" />
+      <Item value="List&lt;Sighting&gt;" priority="0" />
+      <Item value="Images" priority="0" />
+      <Item value="List&lt;Image&gt;" priority="0" />
+      <Item value="Path" priority="0" />
+      <Item value="filePath" priority="1" />
+      <Item value="UriFormatException" priority="0" />
+      <Item value="Url" priority="0" />
+      <Item value="url" priority="0" />
+      <Item value="ThreadPool" priority="3" />
+      <Item value="action" priority="0" />
+      <Item value="DoInNewThread" priority="3" />
+      <Item value="Thread" priority="0" />
+      <Item value="WikipediaUrl" priority="0" />
+      <Item value="stream" priority="0" />
+      <Item value="ToXml" priority="0" />
+      <Item value="count" priority="0" />
+      <Item value="break" priority="0" />
+      <Item value="ManualResetEvent" priority="1" />
+      <Item value="resetEvents" priority="1" />
+      <Item value="@event" priority="0" />
+      <Item value="WaitHandleCannotBeOpenedException" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Neoworks.Utils.CommandLine.CommandLineParser2">
+      <Item value="ParseArguments" priority="0" />
+      <Item value="ParseCommands" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="Out" priority="2" />
+      <Item value="ReadKey" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Neoworks.Utils.CommandLine.RunCommands">
+      <Item value="Execute" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@log4net.LogManager">
+      <Item value="GetAllRepositories" priority="0" />
+      <Item value="GetLogger" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:log4net.ILog">
+      <Item value="Error" priority="0" />
+      <Item value="Debug" priority="0" />
+      <Item value="DebugFormat" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SharpArch.Data.NHibernate.NHibernateSession">
+      <Item value="GetDefaultSessionFactory" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ISessionFactory">
+      <Item value="OpenSession" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ISession">
+      <Item value="BeginTransaction" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ITransaction">
+      <Item value="Commit" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Exists" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.FileMode">
+      <Item value="Open" priority="0" />
+      <Item value="CreateNew" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Sarabi.Core.Celebrity">
+      <Item value="Abstract" priority="1" />
+      <Item value="Images" priority="0" />
+      <Item value="Name" priority="0" />
+      <Item value="HomepageUrl" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="0" />
+      <Item value="Format" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="ReadLine" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Split" priority="0" />
+      <Item value="ToLower" priority="2" />
+      <Item value="LastIndexOf" priority="0" />
+      <Item value="Substring" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="ContainsKey" priority="0" />
+      <Item value="Count" priority="0" />
+      <Item value="Values" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Path">
+      <Item value="Combine" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.ThreadPool">
+      <Item value="QueueUserWorkItem" priority="1" />
+      <Item value="SetMaxThreads" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="CurrentThread" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="Join" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Serialization.XmlSerializer">
+      <Item value="Serialize" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.ManualResetEvent">
+      <Item value="Set" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.WaitHandle">
+      <Item value="WaitAll" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2+ValueCollection">
+      <Item value="ToArray" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379/f:NHibernate.config" caret="1209" fromTop="19" />
+      <File id="7D88A7AC-6228-4DA8-987D-E017B8906BD0/d:Data/f:DbpediaTypesRepositoryTests.cs" caret="2422" fromTop="20" />
+      <File id="D38F5C86-38B0-4774-88C5-623806010A99/f:DbpediaTypesRepository.cs" caret="1649" fromTop="31" />
+      <File id="A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379/f:App.config" caret="553" fromTop="16" />
+      <File id="86EB5F45-FAE9-45C9-8E5D-23A071AEF122/f:Image.cs" caret="0" fromTop="0" />
+      <File id="A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379/d:Commands/f:Command.cs" caret="1308" fromTop="33" />
+      <File id="86EB5F45-FAE9-45C9-8E5D-23A071AEF122/f:Celebrity.cs" caret="278" fromTop="11" />
+      <File id="99AC166C-6A05-40E6-842C-0B668FA2D86B/f:Global.asax.cs" caret="3610" fromTop="33" />
+      <File id="A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379/d:Commands/f:ImportFromDbpedia.cs" caret="1547" fromTop="12" />
+      <File id="A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379/f:Program.cs" caret="528" fromTop="14" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379/d:Commands/f:ImportFromDbpedia.cs" caret="3362" fromTop="26" />
+      <File id="A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379/d:Commands/f:ImportFromDbpedia.cs" caret="626" fromTop="4" />
+      <File id="A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379/d:Commands/f:ImportFromDbpedia.cs" caret="2445" fromTop="24" />
+      <File id="86EB5F45-FAE9-45C9-8E5D-23A071AEF122/f:Celebrity.cs" caret="774" fromTop="15" />
+      <File id="A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379/d:Commands/f:ImportFromDbpedia.cs" caret="747" fromTop="16" />
+      <File id="A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379/d:Commands/f:ImportFromDbpedia.cs" caret="2216" fromTop="12" />
+      <File id="86EB5F45-FAE9-45C9-8E5D-23A071AEF122/f:Image.cs" caret="147" fromTop="9" />
+      <File id="86EB5F45-FAE9-45C9-8E5D-23A071AEF122/f:Image.cs" caret="290" fromTop="14" />
+      <File id="86EB5F45-FAE9-45C9-8E5D-23A071AEF122/f:Image.cs" caret="0" fromTop="0" />
+      <File id="A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379/d:Commands/f:ImportFromDbpedia.cs" caret="2076" fromTop="17" />
+      <File id="A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379/d:Commands/f:ImportFromDbpedia.cs" caret="2065" fromTop="17" />
+      <File id="A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379/d:Commands/f:ImportFromDbpedia.cs" caret="2078" fromTop="18" />
+      <File id="A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379/d:Commands/f:ImportFromDbpedia.cs" caret="4037" fromTop="14" />
+      <File id="A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379/d:Commands/f:Command.cs" caret="820" fromTop="23" />
+      <File id="A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379/d:Commands/f:Command.cs" caret="1059" fromTop="27" />
+      <File id="A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379/d:Commands/f:Command.cs" caret="1308" fromTop="30" />
+      <File id="A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379/d:Commands/f:ImportFromDbpedia.cs" caret="2445" fromTop="25" />
+      <File id="86EB5F45-FAE9-45C9-8E5D-23A071AEF122/f:Celebrity.cs" caret="699" fromTop="21" />
+      <File id="86EB5F45-FAE9-45C9-8E5D-23A071AEF122/f:Celebrity.cs" caret="278" fromTop="11" />
+      <File id="A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379/d:Commands/f:ImportFromDbpedia.cs" caret="1936" fromTop="31" />
+      <File id="A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379/d:Commands/f:ImportFromDbpedia.cs" caret="1704" fromTop="23" />
+      <File id="99AC166C-6A05-40E6-842C-0B668FA2D86B/f:Global.asax.cs" caret="3623" fromTop="33" />
+      <File id="A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379/d:Commands/f:ImportFromDbpedia.cs" caret="2418" fromTop="15" />
+      <File id="A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379/d:Commands/f:ImportFromDbpedia.cs" caret="3883" fromTop="18" />
+      <File id="A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379/d:Commands/f:ImportFromDbpedia.cs" caret="3087" fromTop="21" />
+      <File id="A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379/d:Commands/f:ImportFromDbpedia.cs" caret="1888" fromTop="14" />
+      <File id="A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379/d:Commands/f:ImportFromDbpedia.cs" caret="1515" fromTop="13" />
+      <File id="A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379/d:Commands/f:ImportFromDbpedia.cs" caret="2854" fromTop="22" />
+      <File id="A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379/d:Commands/f:ImportFromDbpedia.cs" caret="1503" fromTop="12" />
+      <File id="A668969E-D1E2-4DC0-B2AB-7FA2FD6F8379/d:Commands/f:ImportFromDbpedia.cs" caret="1648" fromTop="16" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+</Configuration>
